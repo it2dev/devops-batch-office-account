@@ -1,0 +1,11 @@
+git status
+git log --pretty --oneline
+git log
+git log --pretty
+git checkout -b <new branch name> //to create a new branch
+git clone
+git branch
+git checkout <branch name> to switch to other branch
+
+
+
