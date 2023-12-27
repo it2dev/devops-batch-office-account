@@ -6,6 +6,8 @@ git checkout -b <new branch name> //to create a new branch
 git clone
 git branch
 git checkout <branch name> to switch to other branch
-
+git push
+git pull
+git fetch
 
 
